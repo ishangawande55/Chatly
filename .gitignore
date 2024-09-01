@@ -1,4 +1,2 @@
 node_modules
 .env
-# Ignore the bg.mp4 video file
-src/assets/bg.mp4
